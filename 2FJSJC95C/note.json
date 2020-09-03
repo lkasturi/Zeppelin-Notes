@@ -1,0 +1,71 @@
+{
+  "paragraphs": [
+    {
+      "text": "%pyspark\nprint(\"Hello World\")",
+      "user": "admin",
+      "dateUpdated": "2020-09-02 22:55:13.595",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Hello World\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1599101699004_-1535107249",
+      "id": "20200902-225459_18362487",
+      "dateCreated": "2020-09-02 22:54:59.004",
+      "dateStarted": "2020-09-02 22:55:13.658",
+      "dateFinished": "2020-09-02 22:55:47.009",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%pyspark\n",
+      "user": "admin",
+      "dateUpdated": "2020-09-02 22:55:13.600",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1599101713599_-948573612",
+      "id": "20200902-225513_19338018",
+      "dateCreated": "2020-09-02 22:55:13.599",
+      "status": "READY",
+      "errorMessage": "",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "Pyspark-sample-1",
+  "id": "2FJSJC95C",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "spark:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
