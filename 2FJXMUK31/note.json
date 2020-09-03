@@ -1,0 +1,71 @@
+{
+  "paragraphs": [
+    {
+      "text": "%pyspark\nprint(\"hi\")",
+      "user": "admin",
+      "dateUpdated": "2020-09-03 19:08:49.418",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "hi\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1599174516712_-1830594364",
+      "id": "20200903-190836_22548469",
+      "dateCreated": "2020-09-03 19:08:36.712",
+      "dateStarted": "2020-09-03 19:08:49.508",
+      "dateFinished": "2020-09-03 19:08:49.597",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%pyspark\n",
+      "user": "admin",
+      "dateUpdated": "2020-09-03 19:08:49.419",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1599174529418_29178717",
+      "id": "20200903-190849_12487108",
+      "dateCreated": "2020-09-03 19:08:49.418",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "Git-1",
+  "id": "2FJXMUK31",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "Python:shared_process": [],
+    "spark:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
